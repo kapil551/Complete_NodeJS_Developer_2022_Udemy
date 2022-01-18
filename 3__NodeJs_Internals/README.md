@@ -64,8 +64,17 @@
 
 6. Mutli-Threading, Processes, and Threads
 
-    - 
+    - What is Multi-Threading?
+
+    - What are processes?
+
+    - What are threads?
 
 7. Is Node.js Multi-Threaded?
 
-    - 
+    - The thing that allowed Node.js to be so successful is the ability to run JavaScript code asynchronously and doing this in such a way that developers focus on the application and solving interesting problems rather than worrying about complicated multithreading logic.
+
+    - In Node.js, we have one main thread, i.e. Node.js is "Single-Threaded".
+    
+    - This one thread runs the V8 engine, our JavaScript code, including the node.js APIs, as well as a super important part of 
+    Lib U.V., which is the event loop.
