@@ -1,6 +1,5 @@
 # Node.js Fundamentals: Module System
 
-
 1. Node Modules:
 
     - The require function:
@@ -18,9 +17,6 @@
         - https://nodejs.org/docs/latest-v17.x/api/https.html#https
     
     3. https://nodejs.dev/learn/making-http-requests-with-nodejs
-
-    
-    
 
 3. Why use node.js modules?
 
@@ -53,4 +49,10 @@
         - https://nodejs.org/api/esm.html
 
         - https://nodejs.org/api/esm.html#modules-ecmascript-modules
+
+6. Module Caching:
+
+    - What is module caching in node.js ?
+
+7. NPM: The Node Package Manager
 

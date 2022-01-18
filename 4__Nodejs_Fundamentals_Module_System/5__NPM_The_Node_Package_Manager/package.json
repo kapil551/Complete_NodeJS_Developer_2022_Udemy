@@ -1,0 +1,15 @@
+{
+  "name": "installing_our_first_npm_package",
+  "version": "1.0.0",
+  "description": "Installing our first npm package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",  
+    "start": "node app.js"
+  },
+  "author": "Kapil Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
