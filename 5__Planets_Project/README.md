@@ -8,4 +8,8 @@
 
 2. Streaming Large Data Files using csv-parser:
 
-    - 
+    - https://csv.js.org/parse/api/stream/
+
+3. What are we doing ?
+
+![](node_stream.PNG)
