@@ -32,3 +32,25 @@
         2. Organize your code.
         3. Expose only what will be used.
 
+4. Exporting From Modules:
+
+    - Different way od exporting from modules.
+
+    - REQUEST_TIMEOUT
+
+5. ECMAScript Modules or ES6 Modules:
+
+    - Import:
+
+        - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+    
+    - Export:
+
+        - https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export
+    
+    - Node.js Offical Documentation:
+
+        - https://nodejs.org/api/esm.html
+
+        - https://nodejs.org/api/esm.html#modules-ecmascript-modules
+
