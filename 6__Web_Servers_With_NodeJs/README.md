@@ -18,3 +18,13 @@
 ![](what_is_a_web_server.PNG)
 
 ![](web_server_2.PNG)
+
+2. Introduction to HTTP Responsed and Requests:
+
+    - HTTP request methods:
+
+        - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+    
+3. HTTP Requests:
+
+    - https://www.mulesoft.com/resources/api/what-is-an-api
